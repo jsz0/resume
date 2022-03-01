@@ -11,6 +11,14 @@ Highly experienced working in demanding environments including most recently in 
 
 Proven experience working with mission critical infrastructure. Previous role in the ISP industry responsible for life-line E911 voice services. 
 
+## Skills
+
+- Ansible
+  - Developing high quality roles/playbooks
+  - Testing (molecule)
+  - Infrastructure as Code (AWS)
+  - Network Infrastructure as Code (ios, iosxr, fortios, junos)
+  - Ansible Tower
 
 ## Profile
 
