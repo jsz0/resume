@@ -1,7 +1,15 @@
-# resume
+# Jeff Szarka
 
-DevOps / SRE 
 
+Qualified for roles in the realm of *DevOps Engineer, SRE, Infrastructure Engineer*. 
+
+Past titles include Linux Systems Engineer, Broadband Infastructure Engineer, Senior Network Engineer, DevOps Engineer.
+
+In previous roles I have been responsible for services/infastructure with 75k-100k customers.
+
+Highly experienced working in demanding environments including most recently in the fast paced video game industry.
+
+Proven experience working with mission critical infrastructure. Previous role in the ISP industry responsible for life-line E911 voice services. 
 
 
 ## Profile
