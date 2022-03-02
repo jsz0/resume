@@ -1,17 +1,21 @@
 # Jeff Szarka
 
+*Senior DevOps Engineer, Site Reliability Engineer, Infrastructure Engineer*. 
 
-Qualified for roles in the realm of *DevOps Engineer, SRE, Infrastructure Engineer*. 
 
-Past titles include Linux Systems Engineer, Broadband Infastructure Engineer, Senior Network Engineer, DevOps Engineer.
+## Featured Skills
 
-In previous roles I have been responsible for services/infastructure with 75k-100k customers.
+CI/CD, containerization, container clustering, high performance and resiliency distributed microservice application, operations, monitoring, logging, telemetry, infrastructure.
+
+As a former Senior Network Engineer I can debug a problem all the way down to Layer 1
+
+ In previous roles I have been responsible for services/infastructure with 75k-100k customers.
 
 Highly experienced working in demanding environments including most recently in the fast paced video game industry.
 
 Proven experience working with mission critical infrastructure. Previous role in the ISP industry responsible for life-line E911 voice services. 
 
-## Skills
+## Technical 
 
 - Ansible
   - Developing high quality roles/playbooks
@@ -20,7 +24,8 @@ Proven experience working with mission critical infrastructure. Previous role in
   - Network Infrastructure as Code (ios, iosxr, fortios, junos)
   - Ansible Tower
 
-## Profile
+
+## About me
 
 My first experience with Linux was in 1997. I was 16 years old when I downloaded all 13 floppy disk images required to install Slackware. Most likely written to repurposed demo request floppy disks which I received dozens of in the mail everyday. 
 
