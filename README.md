@@ -5,35 +5,43 @@
 
 ## Profile
 
-CI/CD, containerization, container clustering, high performance and resiliency distributed microservice application, operations, monitoring, logging, telemetry, infrastructure.
+My background as a Senior Network Engineer and Linux Systems Engineer allows me to work comfortably at all layers of the OSI model.
 
-As a former Senior Network Engineer I can debug a problem all the way down to Layer 1
+In previous roles I have been responsible for the mission criticail infastructure of services 100k+ users.
 
- In previous roles I have been responsible for services/infastructure with 75k-100k customers.
+Highly experienced designing, implementing and supporting solutions using open source software
 
-Highly experienced working in demanding environments including most recently in the fast paced video game industry.
+Previous work experience in the Intrnet service provider and video game industries. 
 
-Proven experience working with mission critical infrastructure. Previous role in the ISP industry responsible for life-line E911 voice services. 
+Capable of working in demanding environments and handling emergency situations with grace.
+
 
 ## Featured Technical Skills
 
+Highlighting my top skills & specific technologies I have the most experience with over the last ~5 years.
+
 - AWS 
-  - IaC (*CloudFormation, Terraform, packer, awscli*)
+  - IaC (*CloudFormation, Terraform, Packer, awscli*)
   - Security (*IAM, WAF*)
   - Orchestration (*ECS, Kubernetes*)
   - Networking (*VPN, VPC, NAT, R53, IPv6*)
   - Load balancing (*ELB, ALB, NLB, GLB*)
+  - 
 - Ansible 
-  - Developing high quality robust fault-tolerant roles/playbooks
-  - Testing (*molecule*)
-  - Cloud Automation (*aws*)
-  - Network Automation (*ios, iosxr, fortios, junos*)
-  - Ansible Tower
+  - Developing high quality robust fault-tolerant roles/playbooks (*molecule*)
+  - Cloud (*aws*)
+  - Network (*ios, iosxr, fortios, junos*)
+  - Tower / AWX
+
 - Docker
-  - Developing highly efficient & optimized images (*Alpine*)
+  - Developing highly efficient & optimized images (*Dockerfiles, Alpine*)
+
 - CI/CD
-  - Jenkins (*Jenkinsfiles, groovy)
+  - Jenkins (*Jenkinsfiles, Groovy*)
   - GoCD
+  - Testing (JUnit) 
+  - Artifact Repositories (*Nexus*)
+  
 - Network Engineering 
   - Cisco IOS & IOSXR, HP/Comware, FortiGate, JunOS
   - Routing (*BGP, OSPF*)
@@ -43,12 +51,15 @@ Proven experience working with mission critical infrastructure. Previous role in
 
 - Monitoring, Logging, Observability 
   - *ELK, syslog-ng, filebeat*
-  - SNMP V2/3, collectd, statd
+  - SNMPv2/3, collectd, statd, monit
   - CloudWatch, Obervium, Icigna2, Nagios, Grafana
   - PagerDuty
 
+- Frontend
+  - HTTP (*Nginx, HaProxy, Caddy*)
+  
 - Backend 
-  - CouchDB
+  - Databases (*SQL, Oracle, MySQL/MariaDB, CouchDB)
   - RabbitMQ
   - Memcache
   - Tomcat
