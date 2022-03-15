@@ -3,7 +3,7 @@
 *Senior DevOps Engineer, Site Reliability Engineer, Infrastructure Engineer*. 
 
 
-## Featured Skills
+## Profile
 
 CI/CD, containerization, container clustering, high performance and resiliency distributed microservice application, operations, monitoring, logging, telemetry, infrastructure.
 
@@ -15,17 +15,49 @@ Highly experienced working in demanding environments including most recently in 
 
 Proven experience working with mission critical infrastructure. Previous role in the ISP industry responsible for life-line E911 voice services. 
 
-## Technical 
+## Featured Technical Skills
 
-- Ansible
-  - Developing high quality roles/playbooks
-  - Testing (molecule)
-  - Infrastructure as Code (AWS)
-  - Network Infrastructure as Code (ios, iosxr, fortios, junos)
+- AWS 
+  - IaC (*CloudFormation, Terraform, packer, awscli*)
+  - Security (*IAM, WAF*)
+  - Orchestration (*ECS, Kubernetes*)
+  - Networking (*VPN, VPC, NAT, R53, IPv6*)
+  - Load balancing (*ELB, ALB, NLB, GLB*)
+- Ansible 
+  - Developing high quality robust fault-tolerant roles/playbooks
+  - Testing (*molecule*)
+  - Cloud Automation (*aws*)
+  - Network Automation (*ios, iosxr, fortios, junos*)
   - Ansible Tower
+- Docker
+  - Developing highly efficient & optimized images (*Alpine*)
+- CI/CD
+  - Jenkins (*Jenkinsfiles, groovy)
+  - GoCD
+- Network Engineering 
+  - Cisco IOS & IOSXR, HP/Comware, FortiGate, JunOS
+  - Routing (*BGP, OSPF*)
+  - IPv6
+  - VxLan
+  - VPN (*IPSec, SSL, L2TP, EVPN, OpenVPN*)
+
+- Monitoring, Logging, Observability 
+  - *ELK, syslog-ng, filebeat*
+  - SNMP V2/3, collectd, statd
+  - CloudWatch, Obervium, Icigna2, Nagios, Grafana
+  - PagerDuty
+
+- Backend 
+  - CouchDB
+  - RabbitMQ
+  - Memcache
+  - Tomcat
 
 
-## About me
+TODO: Write a real resume with bullet points, excessive use of the words ‘responsible’ and ‘managed’ ,  embarrassing humble brags, baseless claims of knowledge, and of course a dictionary list of required keywords. 
+
+
+## About...
 
 My first experience with Linux was in 1997. I was 16 years old when I downloaded all 13 floppy disk images required to install Slackware. Most likely written to repurposed demo request floppy disks which I received dozens of in the mail everyday. 
 
@@ -35,5 +67,3 @@ As I started learning the UNIX philosophy I started to appreciate the design of 
 
 Learning to think of computing as an artistic endeavor led me to a 15+ year career in engineering. It gives me the confidence to tackle any complex system or problem. This includes designing solutions that leverage open source tools, building reliable / sclable infrastructure, and automating & optimizing operations. The combination of creativity, or at least cleverness, and mastery of powerful tools is the solution to every problem. 
 
-
-TODO: Write a real resume with bullet points, excessive use of the words ‘responsible’ and ‘managed’ ,  embarrassing humble brags, baseless claims of knowledge, and of course a dictionary list of required keywords. 
