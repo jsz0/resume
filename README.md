@@ -2,14 +2,16 @@
 
 *Senior DevOps Engineer, Site Reliability Engineer, Infrastructure Engineer*. 
 
+jeffszarka@gmail.com
+
 
 ## Profile
 
-My background as a Senior Network Engineer and Linux Systems Engineer allows me to work comfortably at all layers of the OSI model.
+Experience as a Senior Network Engineer and Linux Systems Engineer allows me to work comfortably at all layers of the OSI model.
 
 In previous roles I have been responsible for the mission criticail infastructure of services 100k+ users.
 
-Highly experienced designing, implementing and supporting solutions using open source software
+Highly experienced designing, implementing and supporting solutions utilizing open source software
 
 Previous work experience in the Intrnet service provider and video game industries. 
 
@@ -33,12 +35,16 @@ Highlighting my top skills & specific technologies I have the most experience wi
   - Network (*ios, iosxr, fortios, junos*)
   - Tower / AWX
 
+- Development (*bash, python, groovy*)
+    
 - Docker
   - Developing highly efficient & optimized images (*Dockerfiles, Alpine*)
+  - Advaned network & storage configurations (*Vxlan, ZFS*)
 
 - CI/CD
   - Jenkins (*Jenkinsfiles, Groovy*)
   - GoCD
+  - Makefiles
   - Testing (JUnit) 
   - Artifact Repositories (*Nexus*)
   
@@ -50,19 +56,26 @@ Highlighting my top skills & specific technologies I have the most experience wi
   - VPN (*IPSec, SSL, L2TP, EVPN, OpenVPN*)
 
 - Monitoring, Logging, Observability 
-  - *ELK, syslog-ng, filebeat*
+  - ELK, syslog filebeat
   - SNMPv2/3, collectd, statd, monit
   - CloudWatch, Obervium, Icigna2, Nagios, Grafana
   - PagerDuty
 
-- Frontend
-  - HTTP (*Nginx, HaProxy, Caddy*)
+- Frontend Services
+  - Nginx, HaProxy, Apache, Caddy
+  - Load Testing (*k6, drill*)
   
-- Backend 
-  - Databases (*SQL, Oracle, MySQL/MariaDB, CouchDB)
+- Backend Services
+  - Databases (*Oracle, MySQL/MariaDB, CouchDB*)
   - RabbitMQ
   - Memcache
   - Tomcat
+
+- Human Services
+  - Always kind, respectful, empathetic
+  - Identifying and solving communication problems 
+  - Giving and receiving constructive criticism, feedback, recommendations
+  - Hilarious (*where applicable*)
 
 
 TODO: Write a real resume with bullet points, excessive use of the words ‘responsible’ and ‘managed’ ,  embarrassing humble brags, baseless claims of knowledge, and of course a dictionary list of required keywords. 
