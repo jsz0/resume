@@ -23,30 +23,33 @@ Capable of working in demanding environments and handling emergency situations w
 Highlighting my top skills & specific technologies I have the most experience with over the last ~5 years.
 
 - AWS 
+  - Management (*best practices, naming conventions, tagging, cost reduction, etc*)
   - IaC (*CloudFormation, Terraform, Packer, awscli*)
   - Security (*IAM, WAF*)
   - Orchestration (*ECS, Kubernetes*)
   - Networking (*VPN, VPC, NAT, R53, IPv6*)
   - Load balancing (*ELB, ALB, NLB, GLB*)
-  - 
+  
 - Ansible 
   - Developing high quality robust fault-tolerant roles/playbooks (*molecule*)
   - Cloud (*aws*)
   - Network (*ios, iosxr, fortios, junos*)
   - Tower / AWX
 
-- Development (*bash, python, groovy*)
+- Development
+  - Bash, python, groovy, powershell
+  - Regular expressions
+  - JSON/YAML (*jq, jsonclint*)
     
 - Docker
-  - Developing highly efficient & optimized images (*Dockerfiles, Alpine*)
-  - Advaned network & storage configurations (*Vxlan, ZFS*)
+  - Developing highly efficient / optimized images (*Dockerfiles, Alpine*)
+  - Advaned network & storage (*Vxlan, NFS, ZFS*)
 
 - CI/CD
   - Jenkins (*Jenkinsfiles, Groovy*)
   - GoCD
   - Makefiles
   - Testing (JUnit) 
-  - Artifact Repositories (*Nexus*)
   
 - Network Engineering 
   - Cisco IOS & IOSXR, HP/Comware, FortiGate, JunOS
@@ -54,32 +57,41 @@ Highlighting my top skills & specific technologies I have the most experience wi
   - IPv6
   - VxLan
   - VPN (*IPSec, SSL, L2TP, EVPN, OpenVPN*)
+  - BP, IPerf
 
 - Monitoring, Logging, Observability 
-  - ELK, syslog filebeat
+  - ELK, syslog, filebeat
   - SNMPv2/3, collectd, statd, monit
-  - CloudWatch, Obervium, Icigna2, Nagios, Grafana
+  - CloudWatch, Obervium, Icigna2, Nagios, NetData, Grafana
+  - NetBox
   - PagerDuty
 
 - Frontend Services
   - Nginx, HaProxy, Apache, Caddy
-  - Load Testing (*k6, drill*)
+  - Load & Performence Testing (*k6, siege, drill*)
   
 - Backend Services
-  - Databases (*Oracle, MySQL/MariaDB, CouchDB*)
+  - Databases (*Oracle, CouchDB, MySQL/MariaDB*)
+  - Discovery (*etcd, consul*)
   - RabbitMQ
   - Memcache
   - Tomcat
 
 - Human Services
   - Always kind, respectful, empathetic
-  - Identifying and solving communication problems 
+  - Identifying and solving communication problems
   - Giving and receiving constructive criticism, feedback, recommendations
-  - Hilarious (*where applicable*)
+  - Funny (*where applicable*)
+
+## Professional 
+
+### Senior Network Engineer / DevOps Enginee
+
+iRacing Motorsports Simulations - March 2014 – Janurary 2019
+Bedford, MA
 
 
 TODO: Write a real resume with bullet points, excessive use of the words ‘responsible’ and ‘managed’ ,  embarrassing humble brags, baseless claims of knowledge, and of course a dictionary list of required keywords. 
-
 
 ## About...
 
