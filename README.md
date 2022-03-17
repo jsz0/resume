@@ -1,23 +1,16 @@
 # Jeff Szarka
 
-jeffszarka@gmail.com
-
-
-*Senior DevOps Engineer, Site Reliability Engineer, Infrastructure Engineer*. 
-
-
+AWS DevOps Engineer / SRE Engineer / Cloud Engineer / Network Engineer
 
 ## Profile
 
-Experience as a Network Engineer and Linux Systems Engineer allows me to work comfortably at all layers of the OSI model.
+Seeking positions including *DevOps Engineer, SRE Engineer, Cloud Engineer, Infrastructure Engineer*. 
 
-Highly experienced designing, implementing and supporting solutions utilizing open source software
+Experience as both a Network Engineer and Linux Systems Engineer allows me to work comfortably at all layers of the OSI model.
 
-In previous roles I have been responsible for the mission criticail infastructure of services with 100k+ users.
+Highly experienced designing, implementing and supporting solutions using open source software.
 
-Previous work experience in the Intrnet service provider and video game industries. 
-
-Capable of working in demanding environments and handling emergency situations with grace.
+In previous roles I have been responsible for the mission critical infrastructure of services with 100k+ users
 
 
 ## Featured Technical Skills
@@ -46,12 +39,12 @@ Highlighting specific skills, technologies, and tools I'm most experienced worki
     
 - Docker
   - Developing highly efficient / optimized images (*Dockerfiles, docker-compose, alpine, supervisord*)
-  - Containerization of microservices (java, node, go)
+  - Containerization of microservices (*java, node, go*)
   - Advanced network & storage (*Vxlan, NFS, ZFS*)
 
 - CI/CD
   - Jenkins
-     - Developing pipelines for microservices (jenkinsfiles, groovy, docker, java, node, go, ansible)
+     - Developing pipelines for microservices (*jenkinsfiles, groovy, docker, java, node, go, ansible*)
   - BitBucket
   - GoCD
   - Makefiles
@@ -73,13 +66,19 @@ Highlighting specific skills, technologies, and tools I'm most experienced worki
   - NetBox
   - PagerDuty
 
+- Platforms / OS
+  * ZFS (*openzfs, trunas/freenas, freebsd, solaris)
+  * Network Storage (*nfs, glusterfs*)
+  * Packet filtering (*ipfilter, ipfw, bdf*) 
+  * 
 - Frontend
-  - NGINX, HAProxy, traefik, caddy
+  * Design, implementation and support of scalable fault tolerant service architectures. 
+  - NGINX, HAProxy, caddy, traefik
   - Load & Performence Testing (*k6, siege, drill*)
  
   
 - Backend Services
-  - Databases (*Oracle, CouchDB, MySQL/MariaDB*)
+  - Databases (*Oracle, CouchDB, MySQL/MariaDB, AWS-RDS*)
   - Discovery Services (*etcd, consul*)
   - RabbitMQ
   - Memcache
@@ -92,19 +91,31 @@ Highlighting specific skills, technologies, and tools I'm most experienced worki
   - Funny (*where applicable*)
 
 
-## Professional Experience 
+### *iRacing Motorsports Simulations*
 
-###### **DevOps Engineer**, *iRacing Motorsports Simulations*
+iRacing is a massively multi-player auto racing simulator with over 100,000 subscriers
 
-TODO
 
-###### **Senior Network Engineer**, *iRacing Motorsports Simulations*
+###### **DevOps Engineer (2016-2019)**
 
-TODO
+TODO: Merge from latest notes
 
-###### **Broadband Engineer, *MetroCast Communications*
 
-TODO
+###### **Senior Network Engineer (2014-2016)**
+
+TODO: Merge from latest notes
+
+
+
+### *MetroCast Communications*
+
+TODO: Revise from 2014 copy
+
+###### **Broadband Infrastructure Manager (MM/YYYY-MM/YYYY)**
+
+###### **Broadband Engineer (MM/YYYY-MM/YYYY)**
+
+
 
 
 
